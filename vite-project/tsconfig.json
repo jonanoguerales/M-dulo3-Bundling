@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "esModuleInterop": true,
+        "isolatedModules": true,
+        "lib": ["esnext", "dom"],
+        "module": "esnext",
+        "moduleResolution": "bundler",
+        "noEmit": true,
+        "noImplicitAny": false,
+        "resolveJsonModule": true,
+        "skipLibCheck": true,
+        "sourceMap": true,
+        "target": "esnext",
+        "useDefineForClassFields": true
+    },
+    "include": ["src"]
+}

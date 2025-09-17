@@ -1,0 +1,21 @@
+{
+  "name": "proyect-vite",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "build": "vite build",
+    "preview": "vite preview",
+    "start": "vite"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.2",
+    "vite": "^7.1.5",
+    "vite-bundle-analyzer": "^1.2.3",
+    "vite-plugin-checker": "^0.10.3",
+    "vite-plugin-compression": "^0.5.1"
+  }
+}

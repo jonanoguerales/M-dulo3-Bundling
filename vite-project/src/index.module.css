@@ -1,0 +1,13 @@
+html{
+    font-family: system-ui, sans-serif;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+}
+
+.title {
+  font-size: 2rem;
+  color: #2b6cb0;
+  text-align: center;
+  margin-top: 2rem;
+} 
